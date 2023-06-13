@@ -8,4 +8,7 @@ This started off as a personal hobby in a way due to numerous readings of academ
 I decided I would try out my first original repository with the sole purpose of providing comprehensive lists for those out there who are sick of big data and relentless privacy invasion. It's not a cure but it sure as hell beats just letting it happen! I'll update it as often as I can, and take any and all requests. 
 
 
+It is entirely up to you to choose which, if any, you want to implement. Some things added, for instance some of the googleapis, will render certain apps provided by google i.e. Google Translate, useless. So pay attention. You could disable one domain and enable the rest, or just not add it. Entirely your choice.
+
+
 I will also attach my first Python script I used for some of these lists as well. 
